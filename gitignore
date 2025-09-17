@@ -1,0 +1,14 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+
+*.csv
+*.xlsx
